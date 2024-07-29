@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Simulation_SPICE1")(type "KiCad")(uri "${KIPRJMOD}/Simulation_SPICE.kicad_sym")(options "")(descr ""))
+)
